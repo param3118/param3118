@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Paramjeet Singh
 
-<!--
-**param3118/param3118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+- 🔭 I’m currently working on: my GitHub profile  
+- 🌱 I’m currently learning: Git & GitHub  
+- 💬 Ask me about: web development or video games  
+- 📫 How to reach me: [your email or social link]
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- JavaScript | Python | HTML/CSS | Git  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
